@@ -1,1 +1,19 @@
- 
+Linking to FORTRAN77
+
+The C programming language is compiled in a similar manner as C++, Ada and FORTRAN.  When the compiler runs, the functions are compiled into machine code.  The linker is then used to connect the different pieces of machine code together to produce an executable.  Other compiled languages, are also compiled into machine code.  This allows programs written in different compiled languages to be combined using the linker.
+
+FORTRAN77 has been used for many years for mathematical calculations.  Similar to C, it compiles into small and efficient programs.  Open a nano editor, described in the first C Cave article, and type in
+
+..fortran.for..
+
+then save it as fortran.for.  Since FORTRAN77 was written for punch card use, there are six spaces in front of each line of the source code.  There are two notable exceptions, comments which are denoted by a character in the first position and line continuation which uses the sixth character position.  Create a file called FORTRAN.INC containing,
+
+FORTRAN.INC
+
+The fortran.for file includes the FORTRAN.INC to define a common block.  A common block creates a global block of sequentially ordered memory.  The structure of the memory allocated is the same as a global C struct.  The variable types INTEGER, REAL and CHARACTER are equivalent to int, float and  char.  Arrays are defined with () rather than [] and are numbered from 1 instead of 0.  Multiple array indices are transposed in comparison to C.  This means [0][1] in C becomes (2,1) in FORTRAN77.  Unlike C, FORTRAN does not use a string termination character '\0' but instead relies on the length of the character array.  FORTRAN77 allows SUBROUTINEs and FUNCTIONs, whereas both of these are expressed as functions in C.
+
+To connect up the FORTRAN code with C, use nano to create a file called fortran.h containing
+
+fortran.h
+
+This header file contains the definitions of the FORTRAN common block, subroutine and functions written in C syntax.  To simplify the code slightly, a typedef is used to define the struct as forcom.  Then one external global instance of forcom is declared called forcom_.  This instance has to be external, such that the global definition in the FORTRAN code is used instead of creating a new instance.  The keyword extern implies that the compiler declares, but does not define the struct instance in memory.  Notice that the array indices in the struct declaration are transposed with respect to the FORTRAN common.  The subroutine and FORTRAN functions are written in C with the same name, but with lower case and an underscore at the end of the name.  Unlike C, the fortran 
