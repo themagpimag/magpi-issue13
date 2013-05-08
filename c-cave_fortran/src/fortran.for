@@ -42,10 +42,10 @@ c     a C function
 c     Print the string passed into this function
       PRINT *,'CALL_BACK() NAME=',NAME
 
-c     Call a C function mult_a__ to multiply A by some factor
+c     Call a C function mult_a_ to multiply A by some factor
       C = MULT_A(A)
 
-c     Print the value of C returned from mult_a__
+c     Print the value of C returned from mult_a_
       PRINT *,'CALL_BACK() C=',C
 
 c     Return the value of C.
