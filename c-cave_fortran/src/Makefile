@@ -2,11 +2,11 @@
 # A Makefile to build Wrap.exe
 
 CC=gcc
-F77=g77
+F77=gfortran
 TARGET=Wrap
 OBJECTS=main.o fortran.o 
 
-LIBS = -lg2c
+LIBS = -lgfortran
 
 $(TARGET).exe: $(OBJECTS)
 	@echo "**"
@@ -30,4 +30,4 @@ veryclean: clean
 	@echo "**"
 	@echo "** Compiling Fortran Source"
 	@echo "**"
-	$(F77) -c $<
+	$(F77) -c -m64 $<

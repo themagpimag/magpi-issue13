@@ -21,7 +21,7 @@ int main() {
 
   /* Call the fortran function CALL_BACK(A,NAME) */
   size=sizeof(name)/sizeof(char);
-  call_back__(&a,name,size);
+  call_back_(&a,name,size);
 
   return 0;
 }
@@ -44,6 +44,6 @@ void fill_common(void) {
 }
 
 /* A function provided for the FORTRAN function CALL_BACK to call. */
-float mult_a__(float *a) {
+float mult_a_(float *a) {
   return (*a)*10.;
 }

@@ -22,9 +22,9 @@ extern forcom forcom_;
 void commons_(void);
 
 /* Fortran function CALL_BACK */
-float call_back__(float *,char *, int);
+float call_back_(float *,char *, int);
 
 /* A function called from fortran code */
-float mult_a__(float *);
+float mult_a_(float *);
 
 #endif
