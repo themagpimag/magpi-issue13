@@ -1,11 +1,12 @@
 Super Scratch Programming Adventure
+The LEAD Project
+No Starch Press
 
 Super Scratch Programming Adventure is an excellent book for kids and anyone who wants to learn basic programming skills, but are intimidated by the more complicated languages out there.
 
-It is a comic book-cum-instruction manual, which teaches scratch through story. Our heroes are Scratchy (the cyber-space living cat), Mitch (a computer science student) and the Cosmic Defenders: Gobo, Fabu and Pele, who we must help fight the Dark Wizard and his Dark Minions. As you work through the comic you learn simple scratch techniques to defeat the Dark Wizard resulting in some really cool mini games. At the end of the book there is a bonus section (the best part of any game), which show you how to share your scratch project online and how to use scratch to write programs for a sensor board (PicoBoard).  
+It is a comic book-cum-instruction manual, which teaches scratch through story. Our heroes are Scratchy (the cyber-space living cat), Mitch (a computer science student) and the Cosmic Defenders: Gobo, Fabu and Pele, who we must help fight the Dark Wizard and his Dark Minions. As you work through the comic you learn simple scratch techniques to defeat the Dark Wizard resulting in some really cool mini games. At the end of the book there is a bonus section (the best part of any game), which shows you how to share your Scratch project online and how to use Scratch to write programs for a sensor board (PicoBoard).  
 
-The great thing about this book is ‚ÄúScratchy‚Äôs Challenge!!‚Äù at the end of each stage (chapter). These challenges get you to think outside the box and come up with ways to improve what you have just created and how you would use these skills in other projects. 
+The great thing about this book is ìScratchyís Challenge!!î at the end of each stage (chapter). These challenges get you to think outside the box and come up with ways to improve what you have just created and how you would use these skills in other projects. 
 
 This is a great book to start your programming adventure!
-
-Did you know no starch press is giving MagPi readers ??% off purchases from www.nostarch.com ?
+ 
