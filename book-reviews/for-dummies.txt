@@ -1,0 +1,11 @@
+Raspberry Pi for Dummies
+Sean McManus & Mike Cook
+Wiley
+
+Raspberry Pi for Dummies is a good book for those people who are new to the Raspberry Pi or who are looking to invest in purchasing one.
+
+The book is an introduction to many aspects of the Raspberry Pi, broken down into six parts. Part I deals with the parts of the Raspberry Pi and how to download the operating system. Part II builds on Part I by discussing in further detail how to get to grips with Linux. Part III gives an overview of photo editing, website building and playing audio and video. Part IV is an introduction to programming with Scratch and Python whereas Part V deals with the basics of circuits and soldering. The final section, Part VI, details great software packages for the Raspberry Pi and inspiring projects, such as a weather station and a talking boat! 
+
+The really nice thing about Raspberry Pi for Dummies is that you do not need to read the book from cover to cover. You can dip in and out as you wish as there are very few essential links between chapters.    
+
+This book is an ideal addition to any Raspberry Pi reference library. 
