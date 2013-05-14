@@ -1,0 +1,107 @@
+HOW TO PLAY THE ARCHIMEDES VERSION OF ELITE
+POSTED ON 13/11/2012
+This is a very long post, but it should only take you about 10 minutes to follow.  There is just a lot of detail so you don’t go wrong!
+
+Unless you’re around my age, or older, two things are probably true about you. One is that you have never played Elite and the other is that the logo below probably looks like it’s for a garden centre! Fear not, I am going to let you in on all these strongly guarded secrets. After reading this you will be able to go up to older gamers and watch their jaws hit the floor when you hold your own in a conversation about a seminal game from the 1980s.
+
+Skip the history lesson, just show me how to play!
+
+Back in 1987, some of you were probably not born yet, a company called Acorn Computers released their first general purpose home computer. It was called the Archimedes, no doubt after the famous Greek dude, and it was tremendously popular. It had a new kind of processor called a RISC chip (reduced instruction set computer). Acorn Computers evolved over the years into what is now called ARM, and you have an ARM processor in your Raspberry Pi. So could you say that the Raspberry Pi is the great-great-grandchild of the Archimedes? Up to you, but that mantle probably belongs to the earlier BBC Micro (also made by Acorn).
+
+Anyway, history lesson over – almost.   So Acorn made an operating system for their RISC chips called RISC OS and this was a hugely popular, much loved, operating system of the time.  Earlier in November RISC OS was released for the Raspberry Pi as an SD card image that you can download.  If you’re a fan of drag and drop you’re going to get on fine with it.
+
+So what is this Elite? Right then, pay attention boys and girls.  Elite was a seminal computer game that changed the entire landscape of gaming.  Back in the early 80’s computer games were all about getting the highest score before your lives ran out.  Elite was an open ended game that had no score, no levels, no bosses – just one enormous galaxy that you could go around in doing whatever you wanted.  This is what people call a “sand box” game.  So if you’ve played any of the grand theft auto games, those are sand box games.  If you have enjoyed those then spare a thought for the game that created that entire concept of play.
+
+Elite originally came out in 1984 on the BBC Micro (above) and had wire frame graphics.  By the time Archimedes version was released in 1991 they had improved the graphics a fair bit.  The Archimedes version of Elite is widely regarded as the best version of the original game, so in the instructions that follow I am going to explain firstly how to get the game running and secondly how to play it.
+
+End of History Lesson
+
+Okay so we’re actually going to use the Raspberry Pi version of RISC OS for almost everything here (it will give you some experience in using the OS).  The first thing we need to do though is download the RISC OS image and burn it onto an SD card.  Go here, scroll to the bottom of the page and download the RISC OS image.  If you’ve not done this before or are not sure what to do then an earlier post on my blog should be enough to get you going.  You can, if you want to, have a quick read of this PDF which gives you a nice introduction to RISC OS itself.
+
+Okay so I assume now that you have the RISC OS image burnt onto your SD card and are ready to begin.  Insert the SD card into your Raspberry Pi and power it up, hit start on your stop watch too as you’ll be surprised at how quick this is!
+
+A quick note about the RISC OS mouse (above). As you can see it has three buttons. Clicking the mouse wheel on your modern mouse will do the job of the middle mouse button (button 2). It’s actually the middle click that gives you context menus similar to those that you have in Windows, we’ll be using those later.
+
+When the RISC OS desktop appears you will see a progress bar showing the scanning of several system fonts.  Just wait for this to finish and it will disappear, you’ll then be presented with a welcome page.  The first thing you’ll notice is that Internet connectivity is not working (above).  As far as I know RISC OS does not support any Wifi adaptors so you’re going to have to get a normal network cable for this.  If this is not possible for you, read on, then you’ll have to do the downloads on another computer and transfer them over using a USB stick (do not unzip them, you have to unzip them under RISC OS).
+
+On the left of the desktop you should see an icon named !Configure, double (button 1) click this and you should see the window above.  Double click the Network icon on the right, there are just a couple of settings we need to enable here (note that if you’re going the USB stick route you don’t need to do this step).
+
+The network configuration icons will now display, you need to go through each of these icons setting the options shown below.
+
+
+
+
+Once you have set all of those click the Save button back on the Network configuration window. You will now see a message saying Your computer will need to be reset before your choices take effect. Shall I reset now? Go ahead and reset now. Your Pi will reboot, you may notice a bit of a delay this time while it acquires an IP address from DHCP.
+
+The web browser that comes with RISC OS is called !NetSurf. There will be an icon for this in the bottom left of the desktop, double click this to run it. You’ll notice that it doesn’t always pop straight up like programs do in Windows. It will appear in the task area in the bottom right (near where the Raspberry Pi icon is). Button 1 click it here and then it will come up. Test your internet connectivity now by going to any website, say the BBC news one. You will find that a lot of websites look slightly bent out of shape in NetSurf, this is because it’s quite an old web browser and doesn’t support all the latest website technology. Despite this though, it is a quick and usable browser and will be fine for what we want to do here.
+
+Okay so our goal here is to run the Archimedes version of Elite on your Raspberry Pi. Unfortunately Arc Elite will not run natively on the Raspberry Pi because the Archimedes processor is 26 bit where as the Pi processor is 32 bit. So we need to use an emulator. This is a program that will basically fool the game into thinking it’s running on a real Archimedes computer and thus will run normally.
+
+We now need to go and download the emulator, the one we’re going to use is called ArcEm and it actually gives you a fully functional Archimedes desktop environment to work in (within which we will run the game). So in the address bar of !NetSurf type the following address http://arcem.sourceforge.net/
+
+At the time of writing ArcEm version 1.50 alpha 2 was the latest version. However it’s a good idea to download whichever is the latest version on this page. Look for the “get it here” link. This link will redirect you to a site called sourceforge where you can get the file. If you have trouble finding it type this into the address bar on !NetSurf; http://sourceforge.net/projects/arcem/files/latest/download?source=files
+
+Note that !NetSurf may throw up an error saying Bad type. This is because it doesn’t recognise the automatic download that the sourceforge site tries to launch. Click on the direct link (as above) and the download will start.
+
+Pay attention now.  This is how you tell RISC OS where you want the downloaded file to go.  First double click the SD card icon in the bottom left, next use button 1 to drag the icon within the NetSurf Download box into the SD card window (as above).
+
+The file should then look like this (above) in the SD card window. The zig zag is because it is a zip file (it has other files compressed inside it). The next thing we need to do is create a new folder to unzip the emulator into. Middle click (mouse wheel) somewhere in SD card folder (as below) and a context menu will appear.
+
+Choose New Directory > (move the mouse over the arrow) and type ArcEm into the box (be sure to keep the mouse pointer steady here, if you move it away the New directory box will close). Next double click the new ArcEm folder and an empty window will display, move this over to one side by dragging the title bar (where it says SDFS::RISCOSpi.$.ArcEm).
+
+Now double click on the zip file and you will see the files inside it (this is the emulator program). Drag this window so that it is side by side with the empty ArcEm folder. Then drag a box around all the emulator program files, so that they become selected, and finally drag them into the ArcEm folder. You will then see a copying dialogue as the files are unzipped (above).
+
+I know this is long winded! By doing all this you’re learning about RISC OS though so please bear with me. Okay so before we can run the emulator we need to give it a ROM file. This is an image of the original Archimedes operating system that the emulator will boot up into. Open !NetSurf again and type the following address in; http://home.tiscali.nl/~jandboer/
+
+When the page loads we want to download the file called support2(1096K). Click on this to start the download and drag the file into the SD card window, exactly the same way as before (above).
+
+The file should then look like this (above) and it is also a zip file. We now need to get the ROM file out of it. Double click the support2 file, you will see an icon called !A310Emu. It’s actually a program, so don’t double click it – double clicking on programs runs them. Hold down shift and then double click it, you’ll see another window with an OS folder. Double click the OS folder and now you’ll see the file we want. It’s named ro310, drag it into the SD card window like we have done before (as below).
+
+Take a deep breath, everyone at the back still with me? We now need to change a few properties on this file so that our ArcEm program will recognise it. First we must remove it’s access protection, then set it’s file type to Data and finally rename the file to ROM. These can each be done by middle clicking (mouse wheel) on the ro310 file (as below).
+
+First remove the file protection, so you can then make changes to it.
+
+Type Data into the Set type box below.
+
+Finally, rename it to ROM (capitals).
+
+So this is how it should end up looking (below).
+
+Now we need to put it where ArcEm can find it. Open the ArcEm folder again. Hold down shift and double click the !ArcEm icon, that will show the ArcEm program files. This is where the ROM file needs to go. Drag the ROM file into this window as shown below.
+
+
+Now the first moment of truth has arrived, we can now run the emulator to see if it works. Double click the !ArcEm icon (above), the screen will go black for a moment and you will see the actual boot up sequence of the original Archimedes computer (note the Acorn logo mentioned before).
+
+Your Raspberry Pi has just performed time travel. You’re now looking at a desktop from 20 years ago. You’ll immediately notice that the screen is a little stretched. To fix this press F12 and a little command prompt will appear at the bottom of the screen. Type wimpmode 28 and press enter twice. Now you should have a 4:3 screen ratio (640×480 at 256 colours). You can make screen mode 28 permanent by setting it as the default screen mode in the Archimedes configuration. This is so that you don’t have to type wimpmode 28 every time you start up the emulator.
+
+First double click on the Apps icon in the bottom left, then double click !Configure (above). It will appear in the task area in the bottom right, button 1 click it there to bring it up.  Now button 1 click on the screen icon (as below).
+
+Now you can set the Default screen mode setting to 28, you can click where the current number is and edit it as text.
+
+Once you’re done you can middle click the acorn and do a shutdown and restart to test that it has kept the setting. This doesn’t reboot the Raspberry Pi, only the emulated Archimedes.
+
+In the bottom left corner of the screen (above) you’ll see an icon named HostFS. This corresponds to the hostfs folder back in Raspberry Pi land that you may have noticed before (below). So anything you put in here can then be seen by the emulated Archimedes. Guess what we need to put in here? The game!
+
+The emulator does not shut down very gracefully, if you middle click on the Acorn icon (bottom right) you can choose Exit from the context menu. But this just causes a hang, its just a bug they will probably fix in the next version of ArcEm. So, for now, you need to power cycle your Pi (turn it off for a second, then back on again). It is perfectly safe to do this.
+
+When the Pi has rebooted open !NetSurf again and type the following into the address bar; http://www.iancgbell.clara.net/elite/arc/
+The file we want is marked Click here to download Arc Elite (419 Kbytes) (see below).
+
+Drag the file into the SD card window, just like the other downloads we did, and you’ll now see a file called b5052410. We need to change the type of this file to Zip so that we can extract the game. To do this middle click (mouse wheel) on the file and use the context menu as shown below to set the file type (type Zip into the Set type box).
+
+Now we can extract the zip file into ArcEm’s hostfs folder. So open the ArcEm folder again, then the hostfs folder. Double click the b5052410 zip file, you will now see the game files. Position the hostfs and b5052410 windows so that they are side by side (drag the title bar), drag a box around all the game files and finally drag them all into the hostfs folder. You’ll then see a copying dialogue as shown below.
+
+
+Okay no we can run !ArcEm again (above) but this time the game will be available to us. When you get to the Archimedes desktop; double click the HostFS icon and you should now see the game. Simply double click the icon named !elite to start the game. You will be asked if you have a high resolution monitor, press Y. The game will appear in the bottom right corner as an icon and probably named Jameson (the default commander name). Click this and you can then start playing!
+
+When in game you can press F12 to go back to the desktop. If you middle click (mouse wheel) the Jameson task icon you can get access to a preferences menu where you can configure the game settings (below). I would suggest turning down mouse sensitivity to 1, or disabling the mouse altogether and playing the game on keys. That way the mouse works when you’re in the menus and you use keys for flight. There is also a save game menu you can access from here.
+
+Okay so there are actually some documents that came with the game that you can go through (see the Docs folder above). This will have all the detail you’ll ever need. But for a quick introduction for those of you in a hurry. The basic idea in elite is that you start off with a really poor space ship and by trading goods, narcotics, radioactive material etc you can earn money to buy better stuff for your ship, or buy a whole new ship.
+
+If you want to fly on mouse, this is a skill in itself, I recommend you press the Caps Lock key to turn on an auto centring feature which makes it 100% easier, mouse button 1 is fire, button 2 and 3 for speed up and slow down. On keyboard the flight keys are S, X for pitch and <, > for roll, ? and Space bar for speed up and slow down, A is fire. To jump to another star system, press F6, choose the planet you want and then press H (for hyperspace), this will give you a 10 second count down to your jump.  Shall I give you help with docking at space stations…? Okay go on then. Here is a little video of someone doing it in the original BBC version of Elite.
+
+The basic idea is that you need to find the space station and get yourself lined up with its letter box shaped exit. Then fly into it as straight as you can, if you get it wrong – dead (the game is actually that brutal). Here is how I usually do it. After you do a hyperspace jump you’ll see a planet somewhere near you. Head towards it and press J to jump, if another ship gets near you a message saying MASS LOCKED will appear – you can’t fire your jump drive when something else is near you. If it’s a pirate you’ll need to fight, often getting them to crash into your shields is enough to kill them. So keep heading towards the planet, it should get bigger as your approach.
+
+If you look at the screen shot above, you’ll notice there is a square box, just below the E in MISSILE, with a green cross hair. This is used to help you locate the space station, it will show as a white dot if the station is in front of you and a red dot if behind. Try and get the white dot in the centre of the cross hair. That then means you’re flying directly towards the space station. When you get near it, start slowing down and get ready to do what you saw in the video above. Fly roughly near the station, slow right down, then point towards the centre of the planet, speed up again and fly towards it for a few seconds. Slow down again, now point yourself back to the station and you should now see the exit is pointing towards you (the exit always points at the centre of the planet). Speed up again to about 1/3 and head in for docking. You might need to repeat this manoeuvre a few times to get yourself properly lined up. When you’re happy with your alignment, you can try and match your rotation with the rotation of the space station. What I tend to do is get quite close, wait for the letter box to be horizontal and then floor it through!
+
+Press F12 to go back to the Archimedes desktop.  Giving credit where it’s due; Pete Taylor.
