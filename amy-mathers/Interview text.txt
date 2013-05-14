@@ -13,7 +13,7 @@ After watching the first time I was astounded at Amy's confidence and ability an
 
 [MagPi] How did you first come across the Raspberry Pi?
 
-[Amy] My Mum found out about Raspberry Pis on Twitter and ordered one for me on the day of release. It took a few weeks to arrive, but as soon as I got it I took to Ben Nuttall's first Manchester Raspberry Jam where I improved upon my Scratch version of Pacman using my face as the Pacman sprite and made a bat game for my little brother. (see Dan Hett's blog on Raspberry Pi Foundation website http://www.raspberrypi.org/archives/1396)
+[Amy] My Mum found out about Raspberry Pis on Twitter and ordered one for me on the day of release. It took a few weeks to arrive, but as soon as I got it I took to Ben Nuttall's first Manchester Raspberry Jam where I improved upon my Scratch version of Pacman using my face as the Pacman sprite and made a bat game for my little brother. (see Dan Hett's blog on Raspberry Pi Foundation website http://bit.ly/L51Ycg)
 
 [MagPi] Before the Raspberry Pi came along, what was your experience with computers and electronics, did you work with other platforms?
 
@@ -41,7 +41,7 @@ After watching the first time I was astounded at Amy's confidence and ability an
 
 [MagPi] What more can we do as a community to get more young people, both boys and girls into computer science? How could our individual readers get involved?
 
-[Amy] I think that we need to set up more community hackspaces, like MadLab, that welcome kids through their doors. Readers could set up these kid friendly hackspaces and run events specifically for under 18's like Madlab's CoderDojos or set up code clubs in their local primary schools (www.codeclub.org) Your local STEMnet team (http://www.stemnet.org.uk) could help with setting this up if you're unsure.
+[Amy] I think that we need to set up more community hackspaces, like MadLab, that welcome kids through their doors. Readers could set up these kid friendly hackspaces and run events specifically for under 18's like Madlab's CoderDojos or set up code clubs in their local primary schools (www.codeclub.org) Your local STEMnet team (http://bit.ly/B0z2q) could help with setting this up if you're unsure.
 
 [MagPi] If you were able to influence the Raspberry Pi design team and introduce a new model, what changes would you bring to the table? 
 
@@ -53,27 +53,35 @@ After watching the first time I was astounded at Amy's confidence and ability an
 
 [MagPi] What are the best resources out there that you can recommend for young Raspberry Pi programmers, or people in general that are giving programming a go for the first time?
 
-[Amy] Obviously, the MagPi magazines are a great resource :) but I think that the Super Scratch Book (http://nostarch.com/scratch) looks like a great book to help younger users of the Raspberry Pi, for older users Simon Monk's Python book (http://www.simonmonk.org/?page_id=63) provides a great introduction to the language.
+[Amy] Obviously, the MagPi magazines are a great resource :) but I think that the Super Scratch Book (http://bit.ly/MVKOw8) looks like a great book to help younger users of the Raspberry Pi, for older users Simon Monk's Python book (http://bit.ly/VXJZrI) provides a great introduction to the language.
 
 [MagPi] Are there any particular podcasts, websites or video channels on YouTube that you find helpful that other kids might find a good source of inspiration?
 
-[Amy] There are some very helpful resources online - I really like; www.geekgurldiaries.co.uk  http://learn.adafruit.com http://blog.makezine.com/projects http://www.instructables.com and http://arduino.cc/en/Tutorial/HomePage The twitter feeds @mykidcancode @codingforkids often have great links, too.
+[Amy] There are some very helpful resources online - I really like:
+
+GeekGurlDiaries: http://bit.ly/1088jKG  
+Adafruit: http://bit.ly/LEQbiB 
+MakeZine: http://bit.ly/13Xr44a
+Instructables: http://bit.ly/4kLr49
+Adruino Tutorials: http://bit.ly/vfm8A
+
+Also, the Twitter feeds @mykidcancode @codingforkids often have great links, too.
 
 [MagPi] Implementations of the Game of Life can be quite daunting for a beginner, what projects would you encourage new young programmers to begin with? 
 
-[Amy] Scratch (http://scratch.mit.edu) is probably the best place for young programmers to begin, but if you prefer working towards goals then Codecademy (http://www.codecademy.com) will probably be more helpful. On the Codecademy website you can choose to learn a particular language or work on a project e.g. one of the first games you'll make in the JavaScript course is Fizz Buzz. Alternatively, simple guessing games or rock-paper-scissors type games are a good place to start and there are plenty of internet forums where you can search for help with any queries that you may have.
+[Amy] Scratch (http://bit.ly/y4Mw) is probably the best place for young programmers to begin, but if you prefer working towards goals then Codecademy (http://bit.ly/oDjwOj) will probably be more helpful. On the Codecademy website you can choose to learn a particular language or work on a project e.g. one of the first games you'll make in the JavaScript course is Fizz Buzz. Alternatively, simple guessing games or rock-paper-scissors type games are a good place to start and there are plenty of internet forums where you can search for help with any queries that you may have.
 
 [MagPi] In your presentation you mentioned Madlab and Manchester Hackspace, can you tell us a little about these resources and the benefits you get from going there?
 
-[Amy] Without Madlab (http://madlab.org.uk) I wouldn't be talking to you today! They are AWESOME!!!! I've met so many great people there who are always willing to share their knowledge and teach me new things. At Madlab I have met; Mike Little, who was my mentor for YRS2012, Ben Nuttall who runs the Manchester Raspberry Jam (http://mcrraspjam.org.uk), Alan O'Donohoe who organised the Raspberry Jamboree, John Beckerson a senior curator from Manchester's Museum of Science and Industry who invited me to display at the Mini Maker Faire, Dr Lucie Green who is a space scientist, plus lots and lots of other very kind people who have taught me so much.  I've also been to lots of workshops held by Manchester Girl Geeks (http://manchester.girlgeekdinners.com) and have started helping teach at their workshops - there's just so much going on there!   Bob Clough from HacMan (http://hacman.org.uk) showed me how to use Inkscape to control the laser cutter when I was making the case for my 'Conway's Game of Life on Pi'. All the people at the hackspace are always happy to help people with any problems that they may have - I wish there was a MadLab/HacMan in every town to help other children discover their inner geek!
+[Amy] Without Madlab (http://bit.ly/rrahU) I wouldn't be talking to you today! They are AWESOME!!!! I've met so many great people there who are always willing to share their knowledge and teach me new things. At Madlab I have met; Mike Little, who was my mentor for YRS2012, Ben Nuttall who runs the Manchester Raspberry Jam (http://bit.ly/YUE2yY), Alan O'Donohoe who organised the Raspberry Jamboree, John Beckerson a senior curator from Manchester's Museum of Science and Industry who invited me to display at the Mini Maker Faire, Dr Lucie Green who is a space scientist, plus lots and lots of other very kind people who have taught me so much.  I've also been to lots of workshops held by Manchester Girl Geeks (http://bit.ly/PYsHEL) and have started helping teach at their workshops - there's just so much going on there!   Bob Clough from HacMan (http://bit.ly/jGLhtz) showed me how to use Inkscape to control the laser cutter when I was making the case for my 'Conway's Game of Life on Pi'. All the people at the hackspace are always happy to help people with any problems that they may have - I wish there was a MadLab/HacMan in every town to help other children discover their inner geek!
 
 [MagPi] Are there many other kids around your age that go the these places on a regular basis? Can you tell us about the type of projects they are working on?
 
-[Amy] At Madlab's U18 CoderDojo there's always lots of different activities going on, for example there's a maKey maKey kit which most of the younger users love making banana piano's with using scratch (http://www.makeymakey.com), a Lego WeDo kit (http://education.lego.com/en-gb/preschool-and-school/lower-primary/7plus-education-wedo) and Bare Conductive inks have been bought for the next event (http://www.bareconductive.com) There are always volunteers around who teach the us Scratch, Python, PHP,  Minecraft plus a variety of other skills.
+[Amy] At Madlab's U18 CoderDojo there's always lots of different activities going on, for example there's a maKey maKey kit which most of the younger users love making banana piano's with using scratch (http://bit.ly/KkiMLO), a Lego WeDo kit (http://bit.ly/12wCqup) and Bare Conductive inks have been bought for the next event (http://bit.ly/16r9C3) There are always volunteers around who teach the us Scratch, Python, PHP,  Minecraft plus a variety of other skills.
 
 [MagPi] You likely already have access to some nice gadgets such as laser cutters and 3D printers, what technologies are on the horizon that excite you?
 
-[Amy] I love the idea of conductive inks.  I met Dr Kate Stone (http://www.novalia.co.uk) at the YRS Festival of Code last year and she showed me a pair of headphones that were made from paper, some electronic greetings cards that she'd made and also this jazz poster http://www.youtube.com/watch?v=Wd4vTHOmQS8 It was amazing to see what she'd achieved with the technology. My mum bought some of Bare Conductive's products at the Maker Faire UK recently and I can't wait to try them out.
+[Amy] I love the idea of conductive inks.  I met Dr Kate Stone (http://bit.ly/5y6TPl) at the YRS Festival of Code last year and she showed me a pair of headphones that were made from paper, some electronic greetings cards that she'd made and also this jazz poster http://bit.ly/17YXxZA It was amazing to see what she'd achieved with the technology. My mum bought some of Bare Conductive's products at the Maker Faire UK recently and I can't wait to try them out.
 
 [MagPi] We're often asked by parents if their kids are old enough for a Raspberry Pi. Given your experience, what do you think is an ideal age for kids to be introduced to programming and do you think the tools available are adequate?
 
@@ -81,7 +89,7 @@ After watching the first time I was astounded at Amy's confidence and ability an
 
 [MagPi] As parents, what can we do, apart from buying a Raspberry Pi obviously, to spark our children's interest in computing?
 
-[Amy] There is a computing festival http://www.casinclude.org.uk coming up soon (N.B. will the magazine have been release before June 15th?) in Warwickshire that is aimed at 11-13 year olds. Also, during the summer holiday, Young Rewired State (http://youngrewiredstate.org) is a week-long event where children up to 18 years old spend 5 days working with mentors on a project, using openly available data sets. Then, at the weekend, all the teams from across the UK meet up in Birmingham for the Festival of Code where they present their projects.
+[Amy] There is a computing festival http://bit.ly/11AErKK coming up soon (N.B. will the magazine have been release before June 15th?) in Warwickshire that is aimed at 11-13 year olds. Also, during the summer holiday, Young Rewired State (http://bit.ly/eAtCMI) is a week-long event where children up to 18 years old spend 5 days working with mentors on a project, using openly available data sets. Then, at the weekend, all the teams from across the UK meet up in Birmingham for the Festival of Code where they present their projects.
 
 [MagPi] Finally, what new projects are you working on at the moment, are you able to give us a sneak peek?
 
