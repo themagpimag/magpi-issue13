@@ -10,7 +10,7 @@ if __name__ == "__main__":
 
     # Create a batch calculator instance for parallel 
     # processing with many PCs.
-    calculator = BatchCalculator("192.168.1.3", 20000)
+    calculator = BatchCalculator("192.168.1.11", 20000)
     calculator.initialise()
 
     time.sleep(60) # Sleep for a minute to allow client server tests. 
