@@ -47,8 +47,15 @@
         <LAYERS NUMMER="11" LEVEL="2" NAME="Effect : Header_Fade 002" SICHTBAR="0" DRUCKEN="1" EDIT="0" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#00ffff"/>
         <LAYERS NUMMER="12" LEVEL="11" NAME="Images" SICHTBAR="1" DRUCKEN="1" EDIT="1" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#fff298"/>
         <Printer firstUse="1" toFile="1" useAltPrintCommand="1" outputSeparations="0" useSpotColors="0" useColor="1" mirrorH="1" mirrorV="0" useICC="0" doGCR="1" doClip="1" setDevParam="0" useDocBleeds="0" cropMarks="1" bleedMarks="1" registrationMarks="0" colorMarks="0" includePDFMarks="1" PSLevel="3" PDLanguage="3" markOffset="3.74231782764791e-308" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" printer="" filename="" separationName="" printerCommand=""/>
-        <PDF firstUse="1" Thumbnails="0" Articles="0" Bookmarks="0" Compress="1" CMethod="0" Quality="0" MirrorH="0" MirrorV="0" Clip="0" RotateDeg="0" PresentMode="0" RecalcPic="0" Grayscale="0" RGBMode="1" UseProfiles="0" UseProfiles2="0" Binding="0" PicRes="300" Resolution="300" Version="14" Intent="1" Intent2="0" SolidP="CineonLog M " ImageP="CineonLog M " PrintP="Fogra27L CMYK Coated Press" InfoString="" BTop="0" BLeft="0" BRight="0" BBottom="0" useDocBleeds="0" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" docInfoMarks="0" markOffset="0" ImagePr="0" PassOwner="" PassUser="" Permissions="-4" Encrypt="0" UseLayers="0" UseLpi="0" UseSpotColors="1" doMultiFile="0" displayBookmarks="0" displayFullscreen="0" displayLayers="0" displayThumbs="0" hideMenuBar="0" hideToolBar="0" fitWindow="0" PageLayout="0" openAction="">
-            <LPI Color="" Frequency="0" Angle="0" SpotFunction="0"/>
+        <PDF firstUse="0" Thumbnails="0" Articles="0" Bookmarks="0" Compress="1" CMethod="1" Quality="2" MirrorH="0" MirrorV="0" Clip="0" RotateDeg="0" PresentMode="0" RecalcPic="0" Grayscale="0" RGBMode="1" UseProfiles="0" UseProfiles2="0" Binding="0" PicRes="300" Resolution="300" Version="14" Intent="1" Intent2="0" SolidP="CineonLog M " ImageP="CineonLog M " PrintP="Fogra27L CMYK Coated Press" InfoString="" BTop="0" BLeft="0" BRight="0" BBottom="0" useDocBleeds="0" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" docInfoMarks="0" markOffset="0" ImagePr="0" PassOwner="" PassUser="" Permissions="-4" Encrypt="0" UseLayers="0" UseLpi="0" UseSpotColors="1" doMultiFile="1" displayBookmarks="0" displayFullscreen="0" displayLayers="0" displayThumbs="0" hideMenuBar="0" hideToolBar="0" fitWindow="0" PageLayout="0" openAction="">
+            <Fonts Name="FreeSans Bold"/>
+            <Subset Name="FreeSans Regular"/>
+            <Subset Name="Monaco Regular"/>
+            <Effekte pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+            <Effekte pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+            <Effekte pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+            <Effekte pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+            <LPI Color="" Frequency="10" Angle="0" SpotFunction="0"/>
             <LPI Color="Black" Frequency="133" Angle="45" SpotFunction="3"/>
             <LPI Color="Cyan" Frequency="133" Angle="105" SpotFunction="3"/>
             <LPI Color="Magenta" Frequency="133" Angle="75" SpotFunction="3"/>
@@ -176,12 +183,12 @@
             <PageItemAttributes/>
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="413.34708662126" YPOS="72.2047243826773" WIDTH="279.65291338874" HEIGHT="28.4153543574803" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" TXTFILL="White" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="FreeSans Bold" ISIZE="20" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 279.653 0 279.653 0 279.653 0 279.653 0 279.653 28.4154 279.653 28.4154 279.653 28.4154 279.653 28.4154 0 28.4154 0 28.4154 0 28.4154 0 28.4154 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 279.653 0 279.653 0 279.653 0 279.653 0 279.653 28.4154 279.653 28.4154 279.653 28.4154 279.653 28.4154 0 28.4154 0 28.4154 0 28.4154 0 28.4154 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" ALIGN="1" LAYER="4" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <ITEXT FONT="FreeSans Bold" FONTSIZE="20" FCOLOR="White" CH="FIXME"/>
+            <ITEXT FONT="FreeSans Bold" FONTSIZE="20" FCOLOR="White" CH="CLIENT SERVER"/>
             <trail ALIGN="1"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="413.34708662126" YPOS="90.6988188976379" WIDTH="279.6529134" HEIGHT="34.0837795275591" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" TXTFILL="White" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="FreeSans Regular" ISIZE="14" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 279.653 0 279.653 0 279.653 0 279.653 0 279.653 34.0838 279.653 34.0838 279.653 34.0838 279.653 34.0838 0 34.0838 0 34.0838 0 34.0838 0 34.0838 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 279.653 0 279.653 0 279.653 0 279.653 0 279.653 34.0838 279.653 34.0838 279.653 34.0838 279.653 34.0838 0 34.0838 0 34.0838 0 34.0838 0 34.0838 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" ALIGN="1" LAYER="4" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <ITEXT FONT="FreeSans Regular" FONTSIZE="14" FCOLOR="White" CH="Tba"/>
+            <ITEXT FONT="FreeSans Regular" FONTSIZE="14" FCOLOR="White" CH="model for using many computers"/>
             <trail ALIGN="1"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
@@ -194,25 +201,40 @@
             <ITEXT FONTSIZE="10" CH="Welcome back to the Python Pit.  This article is the continuation of the tutorial started in Issue 10.  If you have not already done so, it would be a good idea to read the parallel calculations article in Issue 10 before proceeding."/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
-            <ITEXT FONTSIZE="10" CH="The next step in the tutorial is to implement a BatchCalculator class.  This class is an extension of the SimpleServer class and provides the same interface as the SynchronousCalculator.  Start by opening the FunctionCalculator.py file and add to the top of the file,"/>
+            <ITEXT CH="To test the programs in this tutorial, two short Python programs are needed.  Create a file called launchBatchClient.py,"/>
+            <para PARENT="Body text"/>
+            <ITEXT CH="Then create another file launchBatchCalculator.py,"/>
+            <para PARENT="Body text"/>
+            <ITEXT CH="These two programs are for launching the client and server processes, which will allow parallel connections on several computers at onces.  For simplicity, save both programs in the same directory as the FunctionCalculator.py file created in the last tutorial."/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
-            <ITEXT FONTSIZE="10" CH="These import lines are needed for BatchCalculator server process and supporting classes."/>
+            <ITEXT CH="Open the FunctionCalculator.py file in a text editor.   Then add,"/>
+            <para PARENT="Body text"/>
+            <ITEXT CH="to the top of the file.  These include statements will be needed for the BatchCalculator, BatchCalculatorClient and other supporting classes.   Before adding the main server and client processes, several supporting classes are needed.  The first of these is a simple data class called StatusResult.  This class contains the return values from a calculation and the associated status.  Using a simple class also means that the object is mutable.  Append the StatusResult class,"/>
+            <para PARENT="Body text"/>
+            <ITEXT CH="to the end of FunctionCalculator.py.  The __str__ and __repr__ return string representations of the class, which are useful for debugging."/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
-            <ITEXT FONTSIZE="10" CH="Now go to the end of the FunctionCalculator.py file and add,"/>
+            <ITEXT CH="The next supporting class to be added to FunctionCalculator.py is the BatchCalculatorThread,"/>
             <para PARENT="Body text"/>
-            <ITEXT FONTSIZE="10" CH="This class is needed to carry the return values from the remote client processes.  The member functions are the constructor (__init__), the string representation used by the print statement (__str__) and the string representation of the class (__repr__).  The two string representation functions are useful to monitor the progress of the BatchCalculator."/>
-            <para PARENT="Body text"/>
-            <para PARENT="Body text"/>
-            <ITEXT FONTSIZE="10" CH="The SimpleServer class discussed in the last tutorial created a single daemon thread, which was used to make a simgle connection to one client.  To perform several calculations in parallel, a simple thread class is needed.  This simple thread class will be associated with each connection with a client process, leaving the main server daemon to just manage the opening and closing of connections  "/>
-            <para PARENT="Body text"/>
-            <para PARENT="Body text"/>
-            <para PARENT="Body text"/>
+            <ITEXT CH="This class inherits from the built in Python class Thread, such that it includes the functionality from the base class Thread. An intantiation of the BatchCalculatorThread class is given to each client which connects to the main server process in BatchCalculator, leaving the main server process to listen to other connections.  The BatchCalculatorThread contains a run method which is called when the thread is started.  The run method passes the waiting command to an associated client connection and then reads the result as a float.  The wait and clear functions are used to stop and start the thread, such that it is only running while it has a new command to process.  The other methods in the class can be excuted at the same time as the run method.  The evaluate method is available to pass a command to an associated client.  The evaluate function uses the command status flag to block further calculation requests until the associated client has finished processing. "/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
-            <ITEXT FONTSIZE="10" CH="At the end of FunctionCalculator.py add,"/>
+            <ITEXT CH="Now append,"/>
+            <para PARENT="Body text"/>
+            <ITEXT CH="to the end of the FunctionCalculator.py file.  This class is simlar to the SimpleServer class implemented in the previous tutorial and listens for connections from client processes.   The class has an initialise function for starting the server, a disconnect function for telling the clients to disconnect and a shutdown function for telling the clients to shutdown.  Both the disconnect and shutdown functions stop the server process, which listens for new connections.  The disconnect function leaves the client processes running, such that the server program can be restarted.  One more function is needed to complete this class.  This is the evaluate function, needed to distribute the calculations.  The evaluate function will be discussed next time."/>
+            <para PARENT="Body text"/>
+            <para PARENT="Body text"/>
+            <ITEXT CH="To connect to a BatchCalculator server, a client class is needed.  At the end of FunctionCalculator.py append,"/>
+            <para PARENT="Body text"/>
+            <ITEXT CH="This class inherits from the FunctionCalculator class, such that it has an evaluate function.  When the client process is started by calling the loop function, the client tries to connect to the server.  If it is not successful, it sleeps and then tries again.  Once it has a connection it waits for instructions from the server.  If the string it recieves is EXIT, the client shuts down.  If the string it recieve is DISCONNECT, the  client closes its connection to the server and sleeps.  If the string is not EXIT or DISCONNECT, it is evaluated as Python and the result is returned to the server. "/>
+            <para PARENT="Body text"/>
+            <para PARENT="Body text"/>
+            <ITEXT CH="This tutorial can be tested with one Raspberry Pi or several or other computers connected to the network.  Follow the instructions given in the previous tutorial, to find the IP addresses or host names.  Then change the address in launchBatchCalculator.py as needed.  Type python launchBatchCalculator.py to start the server process.  On another computer or the same computer, type python launchBatchClient.py 192.168.1.11 20000 where the IP address should match that of the server."/>
+            <para PARENT="Body text"/>
+            <para PARENT="Body text"/>
+            <ITEXT CH="The BatchCalculator evaluate function and an example calculation will be added next time."/>
             <trail PARENT="Body text"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
@@ -264,7 +286,7 @@
             <trail ALIGN="1"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="2" PTYPE="4" XPOS="128.34708661126" YPOS="1838.39503937032" WIDTH="538.5883465" HEIGHT="730.9944094" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="2" COLGAP="25.51181102" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 730.994 538.588 730.994 538.588 730.994 538.588 730.994 0 730.994 0 730.994 0 730.994 0 730.994 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 730.994 538.588 730.994 538.588 730.994 538.588 730.994 0 730.994 0 730.994 0 730.994 0 730.994 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="6" BOOKMARK="0" NEXTITEM="45" BACKITEM="26">
+        <PAGEOBJECT OwnPage="2" PTYPE="4" XPOS="128.34708661126" YPOS="1835.56039370103" WIDTH="538.5883465" HEIGHT="730.9944094" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="25.51181102" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 730.994 538.588 730.994 538.588 730.994 538.588 730.994 0 730.994 0 730.994 0 730.994 0 730.994 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 730.994 538.588 730.994 538.588 730.994 538.588 730.994 0 730.994 0 730.994 0 730.994 0 730.994 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="6" BOOKMARK="0" NEXTITEM="45" BACKITEM="26">
             <PageItemAttributes/>
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="3" PTYPE="6" XPOS="91.49952755926" YPOS="2657.16566929121" WIDTH="612.2834646" HEIGHT="36.8503937" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="Black" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="1" LOCKR="1" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 612.283 0 612.283 0 612.283 0 612.283 0 612.283 36.8504 612.283 36.8504 612.283 36.8504 612.283 36.8504 0 36.8504 0 36.8504 0 36.8504 0 36.8504 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 612.283 0 612.283 0 612.283 0 612.283 0 612.283 36.8504 612.283 36.8504 612.283 36.8504 612.283 36.8504 0 36.8504 0 36.8504 0 36.8504 0 36.8504 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
@@ -292,7 +314,7 @@
             <trail ALIGN="1"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="3" PTYPE="4" XPOS="128.34708661126" YPOS="2720.28448818921" WIDTH="538.5883465" HEIGHT="730.9944094" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="2" COLGAP="25.51181102" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 730.994 538.588 730.994 538.588 730.994 538.588 730.994 0 730.994 0 730.994 0 730.994 0 730.994 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 730.994 538.588 730.994 538.588 730.994 538.588 730.994 0 730.994 0 730.994 0 730.994 0 730.994 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="6" BOOKMARK="0" NEXTITEM="-1" BACKITEM="38">
+        <PAGEOBJECT OwnPage="3" PTYPE="4" XPOS="128.34708661126" YPOS="2720.28448818921" WIDTH="538.5883465" HEIGHT="730.9944094" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="25.51181102" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 730.994 538.588 730.994 538.588 730.994 538.588 730.994 0 730.994 0 730.994 0 730.994 0 730.994 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 730.994 538.588 730.994 538.588 730.994 538.588 730.994 0 730.994 0 730.994 0 730.994 0 730.994 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="6" BOOKMARK="0" NEXTITEM="-1" BACKITEM="38">
             <PageItemAttributes/>
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="0" PTYPE="2" XPOS="91.1680314960627" YPOS="51.1823622025197" WIDTH="622.50062992126" HEIGHT="161.5748031" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.75" LOCALSCY="0.75" LOCALX="19.3358530183733" LOCALY="-0.8344656918" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="../../magpi-issue10/python-pit010/python-pit-banner.png" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 622.501 0 622.501 0 622.501 0 622.501 0 622.501 161.575 622.501 161.575 622.501 161.575 622.501 161.575 0 161.575 0 161.575 0 161.575 0 161.575 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 622.501 0 622.501 0 622.501 0 622.501 0 622.501 161.575 622.501 161.575 622.501 161.575 622.501 161.575 0 161.575 0 161.575 0 161.575 0 161.575 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="1" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
@@ -303,11 +325,11 @@
             <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="0" PTYPE="6" XPOS="128.34708661126" YPOS="432.362519646456" WIDTH="244.15102362496" HEIGHT="35.8185827157484" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="Code" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 244.151 0 244.151 0 244.151 0 244.151 0 244.151 35.8186 244.151 35.8186 244.151 35.8186 244.151 35.8186 0 35.8186 0 35.8186 0 35.8186 0 35.8186 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 244.151 0 244.151 0 244.151 0 244.151 0 244.151 35.8186 244.151 35.8186 244.151 35.8186 244.151 35.8186 0 35.8186 0 35.8186 0 35.8186 0 35.8186 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="12" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT OwnPage="0" PTYPE="6" XPOS="128.34708661126" YPOS="719.472440944884" WIDTH="249.65291338874" HEIGHT="39.5275590551159" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="Code" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 249.653 0 249.653 0 249.653 0 249.653 0 249.653 39.5276 249.653 39.5276 249.653 39.5276 249.653 39.5276 0 39.5276 0 39.5276 0 39.5276 0 39.5276 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 249.653 0 249.653 0 249.653 0 249.653 0 249.653 39.5276 249.653 39.5276 249.653 39.5276 249.653 39.5276 0 39.5276 0 39.5276 0 39.5276 0 39.5276 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="12" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="128.347086614173" YPOS="433.417322834645" WIDTH="256.151023622047" HEIGHT="34.7637795275596" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="1" TEXTFLOW="1" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 256.151 0 256.151 0 256.151 0 256.151 0 256.151 34.7638 256.151 34.7638 256.151 34.7638 256.151 34.7638 0 34.7638 0 34.7638 0 34.7638 0 34.7638 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 256.151 0 256.151 0 256.151 0 256.151 0 256.151 34.7638 256.151 34.7638 256.151 34.7638 256.151 34.7638 0 34.7638 0 34.7638 0 34.7638 0 34.7638 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="6" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="128.347086614173" YPOS="722.551181102364" WIDTH="538.588346456694" HEIGHT="34.7637795275596" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="1" TEXTFLOW="1" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 34.7638 538.588 34.7638 538.588 34.7638 538.588 34.7638 0 34.7638 0 34.7638 0 34.7638 0 34.7638 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 34.7638 538.588 34.7638 538.588 34.7638 538.588 34.7638 0 34.7638 0 34.7638 0 34.7638 0 34.7638 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="6" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <ITEXT FONTSIZE="9" CH=" import socket"/>
             <para PARENT="Code"/>
             <ITEXT FONTSIZE="9" CH=" import time"/>
@@ -316,318 +338,410 @@
             <trail PARENT="Code"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="128.34708661126" YPOS="500.511811023622" WIDTH="538.5883465" HEIGHT="146" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="1" TEXTFLOW="1" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 146 538.588 146 538.588 146 538.588 146 0 146 0 146 0 146 0 146 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 146 538.588 146 538.588 146 538.588 146 0 146 0 146 0 146 0 146 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="6" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT OwnPage="1" PTYPE="4" XPOS="128.34708661126" YPOS="973.897637795282" WIDTH="538.5883465" HEIGHT="146" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="1" TEXTFLOW="1" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 146 538.588 146 538.588 146 538.588 146 0 146 0 146 0 146 0 146 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 146 538.588 146 538.588 146 538.588 146 0 146 0 146 0 146 0 146 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="6" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <ITEXT FONTSIZE="9" CH=" class StatusResult:"/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="     cmd_status = 0"/>
+            <ITEXT FONTSIZE="9" CH="   cmd_status = 0"/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="     result = 0."/>
-            <para PARENT="Code"/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="     def __init__(self, status_val, result_val):"/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="         self.cmd_status = status_val"/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="         self.result = result_val"/>
+            <ITEXT FONTSIZE="9" CH="   result = 0."/>
             <para PARENT="Code"/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="     def __str__(self):"/>
+            <ITEXT FONTSIZE="9" CH="   def __init__(self, status_val, result_val):"/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="         return &quot;cmd_status: %d, result: %e&quot; % (self.cmd_status, self.result)"/>
+            <ITEXT FONTSIZE="9" CH="     self.cmd_status = status_val"/>
+            <para PARENT="Code"/>
+            <ITEXT FONTSIZE="9" CH="     self.result = result_val"/>
             <para PARENT="Code"/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="     def __repr__(self):"/>
+            <ITEXT FONTSIZE="9" CH="   def __str__(self):"/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="         return &quot;cmd_status: %d, result: %e&quot; % (self.cmd_status, self.result)"/>
+            <ITEXT FONTSIZE="9" CH="     return &quot;cmd_status: %d, result: %e&quot; % (self.cmd_status, self.result)"/>
+            <para PARENT="Code"/>
+            <para PARENT="Code"/>
+            <ITEXT FONTSIZE="9" CH="   def __repr__(self):"/>
+            <para PARENT="Code"/>
+            <ITEXT FONTSIZE="9" CH="     return &quot;cmd_status: %d, result: %e&quot; % (self.cmd_status, self.result)"/>
             <trail PARENT="Code"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="1" PTYPE="4" XPOS="128.347086570867" YPOS="981.889763779529" WIDTH="538.5883465" HEIGHT="392.779527559054" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 392.78 538.588 392.78 538.588 392.78 538.588 392.78 0 392.78 0 392.78 0 392.78 0 392.78 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 392.78 538.588 392.78 538.588 392.78 538.588 392.78 0 392.78 0 392.78 0 392.78 0 392.78 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="6" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT OwnPage="1" PTYPE="4" XPOS="128.347086570867" YPOS="1177.48031496063" WIDTH="538.5883465" HEIGHT="392.779527559054" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="1" TEXTFLOW="1" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 392.78 538.588 392.78 538.588 392.78 538.588 392.78 0 392.78 0 392.78 0 392.78 0 392.78 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 392.78 538.588 392.78 538.588 392.78 538.588 392.78 0 392.78 0 392.78 0 392.78 0 392.78 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="6" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <ITEXT FONTSIZE="9" CH=" class BatchCalculatorThread(threading.Thread):"/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="    "/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="     def __init__(self, sock):"/>
+            <ITEXT FONTSIZE="9" CH="   def __init__(self, sock):"/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="         threading.Thread.__init__(self)"/>
+            <ITEXT FONTSIZE="9" CH="     threading.Thread.__init__(self)"/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="         self.sock = sock"/>
+            <ITEXT FONTSIZE="9" CH="     self.sock = sock"/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="         self.cmd = ''"/>
+            <ITEXT FONTSIZE="9" CH="     self.cmd = ''"/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="         self.sr = StatusResult(0,0.) "/>
+            <ITEXT FONTSIZE="9" CH="     self.sr = StatusResult(0,0.) "/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="         self.processing = threading.Event()"/>
+            <ITEXT FONTSIZE="9" CH="     self.processing = threading.Event()"/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="         self.processing.clear()"/>
+            <ITEXT FONTSIZE="9" CH="     self.processing.clear()"/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="         self.setDaemon(True)"/>
-            <para PARENT="Code"/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="     def run(self):"/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="         while True:"/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="             self.processing.wait() # block until a command is given"/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="             print &quot;Thread \&quot;%s\&quot; sending \&quot;%s\&quot;&quot; % (self.getName(), self.cmd)"/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="             self.sock.send(self.cmd)"/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="             self.sr.result = float(self.sock.recv(1020))"/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="             self.sr.cmd_status = 2 # finished "/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="             print &quot;Thread \&quot;%s\&quot; recieved \&quot;%s\&quot;&quot; % (self.getName(), self.sr.result)"/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="             self.processing.clear() # ready for a new command"/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="            "/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="     def evaluate(self, cmd, sr):"/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="         self.cmd = cmd"/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="         self.sr = sr"/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="         self.sr.cmd_status = 1 # processing"/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="         self.processing.set()"/>
+            <ITEXT FONTSIZE="9" CH="     self.setDaemon(True)"/>
             <para PARENT="Code"/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="     def processingCmd(self):"/>
+            <ITEXT FONTSIZE="9" CH="   def run(self):"/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="         return self.processing"/>
+            <ITEXT FONTSIZE="9" CH="     while True:"/>
+            <para PARENT="Code"/>
+            <ITEXT FONTSIZE="9" CH="       self.processing.wait() # block until a command is given"/>
+            <para PARENT="Code"/>
+            <ITEXT FONTSIZE="9" CH="       print &quot;Thread \&quot;%s\&quot; sending \&quot;%s\&quot;&quot; % (self.getName(), self.cmd)"/>
+            <para PARENT="Code"/>
+            <ITEXT FONTSIZE="9" CH="       self.sock.send(self.cmd)"/>
+            <para PARENT="Code"/>
+            <ITEXT FONTSIZE="9" CH="       self.sr.result = float(self.sock.recv(1020))"/>
+            <para PARENT="Code"/>
+            <ITEXT FONTSIZE="9" CH="       self.sr.cmd_status = 2 # finished "/>
+            <para PARENT="Code"/>
+            <ITEXT FONTSIZE="9" CH="       print &quot;Thread \&quot;%s\&quot; recieved \&quot;%s\&quot;&quot; % (self.getName(), self.sr.result)"/>
+            <para PARENT="Code"/>
+            <ITEXT FONTSIZE="9" CH="       self.processing.clear() # ready for a new command"/>
             <para PARENT="Code"/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="     def cmd(self):"/>
+            <ITEXT FONTSIZE="9" CH="   def evaluate(self, cmd, sr):"/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="         return self.cmd"/>
+            <ITEXT FONTSIZE="9" CH="     self.cmd = cmd"/>
+            <para PARENT="Code"/>
+            <ITEXT FONTSIZE="9" CH="     self.sr = sr"/>
+            <para PARENT="Code"/>
+            <ITEXT FONTSIZE="9" CH="     self.sr.cmd_status = 1 # processing"/>
+            <para PARENT="Code"/>
+            <ITEXT FONTSIZE="9" CH="     self.processing.set()"/>
             <para PARENT="Code"/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="     def result(self):"/>
+            <ITEXT FONTSIZE="9" CH="   def processingCmd(self):"/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="         return self.result"/>
+            <ITEXT FONTSIZE="9" CH="     return self.processing"/>
+            <para PARENT="Code"/>
+            <para PARENT="Code"/>
+            <ITEXT FONTSIZE="9" CH="   def cmd(self):"/>
+            <para PARENT="Code"/>
+            <ITEXT FONTSIZE="9" CH="     return self.cmd"/>
+            <para PARENT="Code"/>
+            <para PARENT="Code"/>
+            <ITEXT FONTSIZE="9" CH="   def result(self):"/>
+            <para PARENT="Code"/>
+            <ITEXT FONTSIZE="9" CH="     return self.result"/>
             <trail PARENT="Code"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="0" PTYPE="6" XPOS="128.34708661126" YPOS="497.55937003622" WIDTH="538.588346459607" HEIGHT="150.432755948032" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="Code" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 150.433 538.588 150.433 538.588 150.433 538.588 150.433 0 150.433 0 150.433 0 150.433 0 150.433 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 150.433 538.588 150.433 538.588 150.433 538.588 150.433 0 150.433 0 150.433 0 150.433 0 150.433 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="12" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT OwnPage="1" PTYPE="6" XPOS="128.34708661126" YPOS="970.945196807879" WIDTH="538.588346459607" HEIGHT="150.432755948032" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="Code" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 150.433 538.588 150.433 538.588 150.433 538.588 150.433 0 150.433 0 150.433 0 150.433 0 150.433 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 150.433 538.588 150.433 538.588 150.433 538.588 150.433 0 150.433 0 150.433 0 150.433 0 150.433 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="12" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="1" PTYPE="6" XPOS="128.34708661126" YPOS="977.669291338583" WIDTH="538.5883465" HEIGHT="393.330708661417" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="Code" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 393.331 538.588 393.331 538.588 393.331 538.588 393.331 0 393.331 0 393.331 0 393.331 0 393.331 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 393.331 538.588 393.331 538.588 393.331 538.588 393.331 0 393.331 0 393.331 0 393.331 0 393.331 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="12" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT OwnPage="1" PTYPE="6" XPOS="128.34708661126" YPOS="1173.25984251969" WIDTH="538.5883465" HEIGHT="393.330708661417" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="Code" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 393.331 538.588 393.331 538.588 393.331 538.588 393.331 0 393.331 0 393.331 0 393.331 0 393.331 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 393.331 538.588 393.331 538.588 393.331 538.588 393.331 0 393.331 0 393.331 0 393.331 0 393.331 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="12" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="2" PTYPE="4" XPOS="128.34708657126" YPOS="1823.77952756096" WIDTH="538.5883465" HEIGHT="654.220472439044" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 654.22 538.588 654.22 538.588 654.22 538.588 654.22 0 654.22 0 654.22 0 654.22 0 654.22 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 654.22 538.588 654.22 538.588 654.22 538.588 654.22 0 654.22 0 654.22 0 654.22 0 654.22 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="6" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT OwnPage="2" PTYPE="4" XPOS="128.34708657126" YPOS="1857.79527559246" WIDTH="538.5883465" HEIGHT="643.204724407543" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="1" TEXTFLOW="1" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 643.205 538.588 643.205 538.588 643.205 538.588 643.205 0 643.205 0 643.205 0 643.205 0 643.205 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 643.205 538.588 643.205 538.588 643.205 538.588 643.205 0 643.205 0 643.205 0 643.205 0 643.205 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="6" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <ITEXT CH=" class BatchCalculator:"/>
             <para PARENT="Code"/>
-            <ITEXT CH="     def __init__(self,host,port):"/>
+            <ITEXT CH="   def __init__(self,host,port):"/>
             <para PARENT="Code"/>
-            <ITEXT CH="         self.host = host"/>
+            <ITEXT CH="     self.host = host   # The name of this host, which is running the server"/>
             <para PARENT="Code"/>
-            <ITEXT CH="         self.port = port"/>
+            <ITEXT CH="     self.port = port   # The port on this host, which is running the server"/>
             <para PARENT="Code"/>
-            <ITEXT CH="         self.sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)"/>
+            <ITEXT CH="     self.sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)"/>
             <para PARENT="Code"/>
-            <ITEXT CH="         self.sock.settimeout(None) "/>
+            <ITEXT CH="     self.sock.settimeout(None) "/>
             <para PARENT="Code"/>
-            <ITEXT CH="         self.client_sockets = []"/>
+            <ITEXT CH="     self.client_sockets = []   # A list of sockets associated with each client connection"/>
             <para PARENT="Code"/>
-            <ITEXT CH="         self.client_threads = []"/>
+            <ITEXT CH="     self.client_threads = []   # A list of BatchCalculatorThreads associated with each client"/>
             <para PARENT="Code"/>
-            <ITEXT CH="         self.shutdown_flag = False"/>
-            <para PARENT="Code"/>
-            <ITEXT CH="        "/>
-            <para PARENT="Code"/>
-            <ITEXT CH="     def initialise(self):"/>
-            <para PARENT="Code"/>
-            <ITEXT CH="         try:"/>
-            <para PARENT="Code"/>
-            <ITEXT CH="             self.sock.bind((self.host, self.port))"/>
-            <para PARENT="Code"/>
-            <ITEXT CH="         except socket.error:"/>
-            <para PARENT="Code"/>
-            <ITEXT CH="             return"/>
-            <para PARENT="Code"/>
-            <ITEXT CH="            "/>
-            <para PARENT="Code"/>
-            <ITEXT CH="         self.sock.listen(5)"/>
-            <para PARENT="Code"/>
-            <ITEXT CH="         self.server_thread = threading.Thread(target=self.serve_forever)"/>
-            <para PARENT="Code"/>
-            <ITEXT CH="         self.server_thread.setDaemon(True)"/>
-            <para PARENT="Code"/>
-            <ITEXT CH="         self.server_thread.start()"/>
-            <para PARENT="Code"/>
-            <ITEXT CH="         print &quot;Server running on %s and listening on %d&quot; % (self.host, self.port)"/>
+            <ITEXT CH="     self.shutdown_flag = False   # A flag to indicate server shutdown"/>
             <para PARENT="Code"/>
             <ITEXT CH="        "/>
             <para PARENT="Code"/>
-            <ITEXT CH="     def serve_forever(self):"/>
+            <ITEXT CH="   def initialise(self):"/>
             <para PARENT="Code"/>
-            <ITEXT CH="         while not self.shutdown_flag:"/>
+            <ITEXT CH="     try:"/>
             <para PARENT="Code"/>
-            <ITEXT CH="             print &quot;Listening for a connection&quot;"/>
+            <ITEXT CH="       self.sock.bind((self.host, self.port))"/>
             <para PARENT="Code"/>
-            <ITEXT CH="             try:"/>
+            <ITEXT CH="     except socket.error:"/>
             <para PARENT="Code"/>
-            <ITEXT CH="                 request, client_address = self.sock.accept()"/>
-            <para PARENT="Code"/>
-            <ITEXT CH="             except socket.error:"/>
-            <para PARENT="Code"/>
-            <ITEXT CH="                 return"/>
-            <para PARENT="Code"/>
-            <ITEXT CH="             self.client_sockets.append(request)"/>
-            <para PARENT="Code"/>
-            <ITEXT CH="             print &quot;Received connection from &quot;, client_address"/>
+            <ITEXT CH="       return"/>
             <para PARENT="Code"/>
             <ITEXT CH="            "/>
             <para PARENT="Code"/>
-            <ITEXT CH="             client_thread = BatchCalculatorThread(request)"/>
+            <ITEXT CH="     self.sock.listen(5)"/>
             <para PARENT="Code"/>
-            <ITEXT CH="             client_thread.start()"/>
+            <ITEXT CH="     self.server_thread = threading.Thread(target=self.serve_forever)"/>
             <para PARENT="Code"/>
-            <ITEXT CH="             self.client_threads.append(client_thread)"/>
+            <ITEXT CH="     self.server_thread.setDaemon(True)"/>
             <para PARENT="Code"/>
-            <ITEXT CH="             print &quot;Started an associated thread.&quot;"/>
+            <ITEXT CH="     self.server_thread.start()   # Start the Daemon function"/>
+            <para PARENT="Code"/>
+            <ITEXT CH="     print &quot;Server running on %s and listening on %d&quot; % (self.host, self.port)"/>
+            <para PARENT="Code"/>
+            <ITEXT CH="        "/>
+            <para PARENT="Code"/>
+            <ITEXT CH="   def serve_forever(self):   # Daemon function"/>
+            <para PARENT="Code"/>
+            <ITEXT CH="     while not self.shutdown_flag:   # Keep running until the shutdown flag is true"/>
+            <para PARENT="Code"/>
+            <ITEXT CH="       print &quot;Listening for a connection&quot;"/>
+            <para PARENT="Code"/>
+            <ITEXT CH="       try:"/>
+            <para PARENT="Code"/>
+            <ITEXT CH="         request, client_address = self.sock.accept()   # Listen for client connection"/>
+            <para PARENT="Code"/>
+            <ITEXT CH="       except socket.error:"/>
+            <para PARENT="Code"/>
+            <ITEXT CH="         return"/>
+            <para PARENT="Code"/>
+            <ITEXT CH="       self.client_sockets.append(request)   # Append this socket to the list"/>
+            <para PARENT="Code"/>
+            <ITEXT CH="       print &quot;Received connection from &quot;, client_address"/>
             <para PARENT="Code"/>
             <ITEXT CH="            "/>
             <para PARENT="Code"/>
-            <ITEXT CH="         if self.shutdown_flag == True:"/>
+            <ITEXT CH="       client_thread = BatchCalculatorThread(request)   # Create a thread to handle the connection"/>
             <para PARENT="Code"/>
-            <ITEXT CH="             print &quot;Listening socket shutting down&quot;"/>
+            <ITEXT CH="       client_thread.start()   # Start the thread"/>
             <para PARENT="Code"/>
+            <ITEXT CH="       self.client_threads.append(client_thread)   # Add this running thread to the list"/>
             <para PARENT="Code"/>
-            <ITEXT CH="     def disconnect(self):"/>
+            <ITEXT CH="       print &quot;Started an associated thread.&quot;"/>
             <para PARENT="Code"/>
-            <ITEXT CH="         self.shutdown_flag = True # Stop listening "/>
+            <ITEXT CH="            "/>
             <para PARENT="Code"/>
-            <ITEXT CH="         print &quot;There are %s connections active&quot; % len(self.client_sockets)"/>
+            <ITEXT CH="     if self.shutdown_flag == True:   # Tell the user the server is shutting down"/>
             <para PARENT="Code"/>
-            <para PARENT="Code"/>
-            <ITEXT CH="         while len(self.client_sockets) &gt; 0: # Loop over clients"/>
-            <para PARENT="Code"/>
-            <ITEXT CH="             sock = self.client_sockets.pop()"/>
-            <para PARENT="Code"/>
-            <ITEXT CH="             print &quot;Wrote DISCONNECT&quot;"/>
-            <para PARENT="Code"/>
-            <ITEXT CH="             sock.send(&quot;DISCONNECT&quot;) # Tell client to disconnect"/>
+            <ITEXT CH="       print &quot;Listening socket shutting down&quot;"/>
             <para PARENT="Code"/>
             <para PARENT="Code"/>
-            <ITEXT CH="     def shutdown(self):"/>
+            <ITEXT CH="   def disconnect(self):"/>
             <para PARENT="Code"/>
-            <ITEXT CH="         self.shutdown_flag = True # Stop listening"/>
+            <ITEXT CH="     self.shutdown_flag = True # Stop listening "/>
             <para PARENT="Code"/>
-            <ITEXT CH="         self.sock.close()"/>
-            <para PARENT="Code"/>
-            <ITEXT CH="         print &quot;There are %s connections active&quot; % len(self.client_sockets)"/>
+            <ITEXT CH="     print &quot;There are %s connections active&quot; % len(self.client_sockets)"/>
             <para PARENT="Code"/>
             <para PARENT="Code"/>
-            <ITEXT CH="         while len(self.client_sockets) &gt; 0: # Loop over clients"/>
+            <ITEXT CH="     while len(self.client_sockets) &gt; 0:   # Loop over clients"/>
             <para PARENT="Code"/>
-            <ITEXT CH="             sock = self.client_sockets.pop()"/>
+            <ITEXT CH="       sock = self.client_sockets.pop()"/>
             <para PARENT="Code"/>
-            <ITEXT CH="             print &quot;Wrote EXIT&quot;"/>
+            <ITEXT CH="       print &quot;Wrote DISCONNECT&quot;"/>
             <para PARENT="Code"/>
-            <ITEXT CH="             sock.send(&quot;EXIT&quot;) # Tell client to shutdown"/>
+            <ITEXT CH="       sock.send(&quot;DISCONNECT&quot;) # Tell client to disconnect"/>
+            <para PARENT="Code"/>
+            <para PARENT="Code"/>
+            <ITEXT CH="   def shutdown(self):"/>
+            <para PARENT="Code"/>
+            <ITEXT CH="     self.shutdown_flag = True # Stop listening"/>
+            <para PARENT="Code"/>
+            <ITEXT CH="     self.sock.close()"/>
+            <para PARENT="Code"/>
+            <ITEXT CH="     print &quot;There are %s connections active&quot; % len(self.client_sockets)"/>
+            <para PARENT="Code"/>
+            <para PARENT="Code"/>
+            <ITEXT CH="     while len(self.client_sockets) &gt; 0: # Loop over clients"/>
+            <para PARENT="Code"/>
+            <ITEXT CH="       sock = self.client_sockets.pop()"/>
+            <para PARENT="Code"/>
+            <ITEXT CH="       print &quot;Wrote EXIT&quot;"/>
+            <para PARENT="Code"/>
+            <ITEXT CH="       sock.send(&quot;EXIT&quot;) # Tell client to shutdown"/>
             <para PARENT="Code"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="3" PTYPE="4" XPOS="128.34708657126" YPOS="2705.66897637921" WIDTH="538.5883465" HEIGHT="733.331023620786" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 733.331 538.588 733.331 538.588 733.331 538.588 733.331 0 733.331 0 733.331 0 733.331 0 733.331 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 733.331 538.588 733.331 538.588 733.331 538.588 733.331 0 733.331 0 733.331 0 733.331 0 733.331 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="6" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <ITEXT FONTSIZE="9" CH="class BatchCalculatorClient(FunctionCalculator):"/>
+        <PAGEOBJECT OwnPage="3" PTYPE="4" XPOS="128.34708657126" YPOS="2787.87370078865" WIDTH="538.5883465" HEIGHT="491.33102362079" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="1" TEXTFLOW="1" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 491.331 538.588 491.331 538.588 491.331 538.588 491.331 0 491.331 0 491.331 0 491.331 0 491.331 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 491.331 538.588 491.331 538.588 491.331 538.588 491.331 0 491.331 0 491.331 0 491.331 0 491.331 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="6" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONTSIZE="9" CH=" class BatchCalculatorClient(FunctionCalculator):"/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="    def __init__(self, host, port):"/>
+            <ITEXT FONTSIZE="9" CH="   def __init__(self, host, port):"/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="        self.host = host"/>
+            <ITEXT FONTSIZE="9" CH="     self.host = host"/>
+            <ITEXT CH="   # The server host name"/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="        self.port = port"/>
+            <ITEXT FONTSIZE="9" CH="     self.port = port"/>
+            <ITEXT CH="   # The server port number, as a string"/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="        self.sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)"/>
+            <ITEXT FONTSIZE="9" CH="     self.sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)"/>
+            <ITEXT CH="  # Socket for connection"/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="        self.connectionOpen = 0"/>
+            <ITEXT FONTSIZE="9" CH="     self.connectionOpen = 0"/>
+            <ITEXT CH="   # A socket to flag if the connection is open or not"/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="        self.reconnectTime = 2"/>
+            <ITEXT FONTSIZE="9" CH="     self.reconnectTime = 2"/>
+            <ITEXT CH="   # The reconnect sleep time in seconds"/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="        self.rereadTime = 2"/>
+            <ITEXT FONTSIZE="9" CH="     self.rereadTime = 2"/>
+            <ITEXT CH="   # The re-read time in seconds"/>
             <para PARENT="Code"/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="    def loop(self):"/>
+            <ITEXT FONTSIZE="9" CH="   def loop(self):"/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="        while True:"/>
+            <ITEXT FONTSIZE="9" CH="     while True:"/>
+            <ITEXT CH="  # Keep looping until told to shutdown"/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="            if self.connectionOpen == 0:"/>
+            <ITEXT FONTSIZE="9" CH="       if self.connectionOpen == 0:"/>
+            <ITEXT CH="  # If there is no connection, try to connect to the server"/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="                self.sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)"/>
+            <ITEXT FONTSIZE="9" CH="         self.sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)"/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="                HOST, PORT = self.host, int(self.port)"/>
+            <ITEXT FONTSIZE="9" CH="         HOST, PORT = self.host, int(self.port)"/>
+            <ITEXT CH="   # Prepare host and socket pair"/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="                try:"/>
+            <ITEXT FONTSIZE="9" CH="         try:"/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="                    # Connect to the server"/>
+            <ITEXT FONTSIZE="9" CH="           # Connect to the server"/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="                    print &quot;Connecting&quot;"/>
+            <ITEXT FONTSIZE="9" CH="           print &quot;Connecting&quot;"/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="                    self.sock.connect((HOST, PORT))"/>
+            <ITEXT FONTSIZE="9" CH="           self.sock.connect((HOST, PORT))"/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="                except socket.error:"/>
+            <ITEXT FONTSIZE="9" CH="         except socket.error:"/>
+            <ITEXT CH="  # If the connection fails, close the socket and sleep"/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="                    self.sock.close()"/>
+            <ITEXT FONTSIZE="9" CH="           self.sock.close()"/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="                    time.sleep(self.reconnectTime)"/>
+            <ITEXT FONTSIZE="9" CH="           time.sleep(self.reconnectTime)"/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="                    print &quot;Failed to connect&quot;"/>
+            <ITEXT FONTSIZE="9" CH="           print &quot;Failed to connect&quot;"/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="                    continue"/>
+            <ITEXT FONTSIZE="9" CH="           continue"/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="                self.connectionOpen = 1"/>
+            <ITEXT FONTSIZE="9" CH="         self.connectionOpen = 1"/>
+            <ITEXT CH="   # Set the connection open flag"/>
             <para PARENT="Code"/>
             <ITEXT FONTSIZE="9" CH="                "/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="            # Read data from the server"/>
+            <ITEXT FONTSIZE="9" CH="         # Read instructions from the server"/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="            msg = self.sock.recv(1024)"/>
+            <ITEXT FONTSIZE="9" CH="         msg = self.sock.recv(1024)"/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="            if msg is None:"/>
+            <ITEXT FONTSIZE="9" CH="         if msg is None:"/>
+            <ITEXT CH="   # If there is no instruction yet, sleep"/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="                time.sleep(self.rereadTime)"/>
+            <ITEXT FONTSIZE="9" CH="           time.sleep(self.rereadTime)"/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="                continue"/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="            "/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="            msg = msg.strip()"/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="            if msg == &quot;EXIT&quot;:"/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="                break"/>
+            <ITEXT FONTSIZE="9" CH="           continue"/>
             <para PARENT="Code"/>
             <ITEXT FONTSIZE="9" CH="            "/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="            if msg == &quot;DISCONNECT&quot;:"/>
+            <ITEXT FONTSIZE="9" CH="         msg = msg.strip()"/>
+            <ITEXT CH="   # Remove leading and trailing characters"/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="                self.sock.close()"/>
+            <ITEXT FONTSIZE="9" CH="         if msg == &quot;EXIT&quot;:"/>
+            <ITEXT CH="   # Exit the while loop, if requested"/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="                self.connectionOpen = 0"/>
+            <ITEXT FONTSIZE="9" CH="           break"/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="                time.sleep(self.reconnectTime)"/>
+            <ITEXT FONTSIZE="9" CH="            "/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="                print &quot;Disconnecting&quot;"/>
+            <ITEXT FONTSIZE="9" CH="         if msg == &quot;DISCONNECT&quot;:"/>
+            <ITEXT CH="   # Disconnect from the server if requested"/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="                continue"/>
+            <ITEXT FONTSIZE="9" CH="           self.sock.close()"/>
+            <para PARENT="Code"/>
+            <ITEXT FONTSIZE="9" CH="           self.connectionOpen = 0"/>
+            <para PARENT="Code"/>
+            <ITEXT FONTSIZE="9" CH="           time.sleep(self.reconnectTime)"/>
+            <para PARENT="Code"/>
+            <ITEXT FONTSIZE="9" CH="           print &quot;Disconnecting&quot;"/>
+            <para PARENT="Code"/>
+            <ITEXT FONTSIZE="9" CH="           continue"/>
             <para PARENT="Code"/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="            result = &quot;%e&quot; % self.evaluate(msg)  "/>
+            <ITEXT FONTSIZE="9" CH="         result = &quot;%e&quot; % self.evaluate(msg)   # Call the evaluate method of the base class  "/>
             <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="            self.sock.send(result)"/>
+            <ITEXT FONTSIZE="9" CH="         self.sock.send(result)"/>
+            <ITEXT CH="   # Send the result back to the server thread"/>
             <para PARENT="Code"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="2" PTYPE="6" XPOS="128.34708661126" YPOS="1823" WIDTH="538.5883465" HEIGHT="653" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="Code" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 653 538.588 653 538.588 653 538.588 653 0 653 0 653 0 653 0 653 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 653 538.588 653 538.588 653 538.588 653 0 653 0 653 0 653 0 653 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="12" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT OwnPage="2" PTYPE="6" XPOS="128.34708661126" YPOS="1854.18110236221" WIDTH="538.5883465" HEIGHT="647.818897637795" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="Code" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 647.819 538.588 647.819 538.588 647.819 538.588 647.819 0 647.819 0 647.819 0 647.819 0 647.819 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 647.819 538.588 647.819 538.588 647.819 538.588 647.819 0 647.819 0 647.819 0 647.819 0 647.819 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="12" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="3" PTYPE="6" XPOS="128.34708661126" YPOS="2704.57480314988" WIDTH="538.5883465" HEIGHT="495.425196850118" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="Code" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 495.425 538.588 495.425 538.588 495.425 538.588 495.425 0 495.425 0 495.425 0 495.425 0 495.425 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 495.425 538.588 495.425 538.588 495.425 538.588 495.425 0 495.425 0 495.425 0 495.425 0 495.425 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="12" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT OwnPage="3" PTYPE="6" XPOS="128.34708661126" YPOS="2783.94488189003" WIDTH="538.5883465" HEIGHT="495.425196850118" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="Code" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 495.425 538.588 495.425 538.588 495.425 538.588 495.425 0 495.425 0 495.425 0 495.425 0 495.425 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 495.425 538.588 495.425 538.588 495.425 538.588 495.425 0 495.425 0 495.425 0 495.425 0 495.425 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="12" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="128.347086614173" YPOS="413.165354330709" WIDTH="538.588346456693" HEIGHT="82.3307086614174" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="1" TEXTFLOW="1" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 82.3307 538.588 82.3307 538.588 82.3307 538.588 82.3307 0 82.3307 0 82.3307 0 82.3307 0 82.3307 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 82.3307 538.588 82.3307 538.588 82.3307 538.588 82.3307 0 82.3307 0 82.3307 0 82.3307 0 82.3307 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="6" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONTSIZE="9" CH=" from FunctionCalculator import BatchCalculatorClient "/>
+            <para PARENT="Code"/>
+            <para PARENT="Code"/>
+            <ITEXT FONTSIZE="9" CH=" if __name__ == &quot;__main__&quot;:"/>
+            <para PARENT="Code"/>
+            <ITEXT FONTSIZE="9" CH="   import sys"/>
+            <para PARENT="Code"/>
+            <ITEXT FONTSIZE="9" CH="   if len(sys.argv) != 3:"/>
+            <ITEXT CH="   # There must be three command line arguments"/>
+            <para PARENT="Code"/>
+            <ITEXT FONTSIZE="9" CH="     sys.stderr.write(&quot;  Usage: &quot; + sys.argv[0] + &quot; &lt;server&gt; &lt;port&gt; \n&quot;)"/>
+            <para PARENT="Code"/>
+            <ITEXT FONTSIZE="9" CH="     sys.exit(1)"/>
+            <ITEXT CH="   # Exit with an error"/>
+            <para PARENT="Code"/>
+            <ITEXT FONTSIZE="9" CH="        "/>
+            <para PARENT="Code"/>
+            <ITEXT FONTSIZE="9" CH="   client = BatchCalculatorClient(sys.argv[1], sys.argv[2])"/>
+            <para PARENT="Code"/>
+            <ITEXT FONTSIZE="9" CH="   client.loop() # Start a batch calculator client"/>
+            <trail PARENT="Code"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="0" PTYPE="6" XPOS="128.34708661126" YPOS="407.661417348032" WIDTH="538.588346459607" HEIGHT="114.503936982676" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="Code" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 114.504 538.588 114.504 538.588 114.504 538.588 114.504 0 114.504 0 114.504 0 114.504 0 114.504 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 114.504 538.588 114.504 538.588 114.504 538.588 114.504 0 114.504 0 114.504 0 114.504 0 114.504 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="12" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="128.34708661126" YPOS="543.559055129921" WIDTH="538.5883465" HEIGHT="112.937007862205" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="1" TEXTFLOW="1" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 112.937 538.588 112.937 538.588 112.937 538.588 112.937 0 112.937 0 112.937 0 112.937 0 112.937 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 112.937 538.588 112.937 538.588 112.937 538.588 112.937 0 112.937 0 112.937 0 112.937 0 112.937 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="6" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONTSIZE="9" CH=" from FunctionCalculator import BatchCalculator "/>
+            <para PARENT="Code"/>
+            <para PARENT="Code"/>
+            <ITEXT FONTSIZE="9" CH=" if __name__ == &quot;__main__&quot;:"/>
+            <para PARENT="Code"/>
+            <ITEXT FONTSIZE="9" CH="   "/>
+            <ITEXT CH="calculator = BatchCalculator(socket.getfqdn(), 20000)"/>
+            <para PARENT="Code"/>
+            <ITEXT CH="   calculator.initialise() # Start the server process."/>
+            <para PARENT="Code"/>
+            <ITEXT CH="   time.sleep(60) # Sleep for a minute to allow client server tests. "/>
+            <para PARENT="Code"/>
+            <para PARENT="Code"/>
+            <ITEXT CH="   # Tell any clients connected to the batch calculator"/>
+            <para PARENT="Code"/>
+            <ITEXT CH="   # server to shutdown and then shutdown server."/>
+            <para PARENT="Code"/>
+            <ITEXT CH="   calculator.shutdown()"/>
+            <para PARENT="Code"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="128.34708661126" YPOS="410.330708673228" WIDTH="538.5883465" HEIGHT="112.83464565748" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="1" TEXTFLOW="1" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 112.835 538.588 112.835 538.588 112.835 538.588 112.835 0 112.835 0 112.835 0 112.835 0 112.835 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 112.835 538.588 112.835 538.588 112.835 538.588 112.835 0 112.835 0 112.835 0 112.835 0 112.835 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="6" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONTSIZE="9" CH=" from FunctionCalculator import BatchCalculatorClient "/>
+            <para PARENT="Code"/>
+            <para PARENT="Code"/>
+            <ITEXT FONTSIZE="9" CH=" if __name__ == &quot;__main__&quot;:"/>
+            <para PARENT="Code"/>
+            <ITEXT FONTSIZE="9" CH="   import sys"/>
+            <para PARENT="Code"/>
+            <ITEXT FONTSIZE="9" CH="   if len(sys.argv) != 3:"/>
+            <ITEXT CH="   # There must be three command line arguments"/>
+            <para PARENT="Code"/>
+            <ITEXT FONTSIZE="9" CH="     sys.stderr.write(&quot;  Usage: &quot; + sys.argv[0] + &quot; &lt;server&gt; &lt;port&gt; \n&quot;)"/>
+            <para PARENT="Code"/>
+            <ITEXT FONTSIZE="9" CH="     sys.exit(1)"/>
+            <ITEXT CH="   # Exit with an error"/>
+            <para PARENT="Code"/>
+            <ITEXT FONTSIZE="9" CH="        "/>
+            <para PARENT="Code"/>
+            <ITEXT FONTSIZE="9" CH="   client = BatchCalculatorClient(sys.argv[1], sys.argv[2])"/>
+            <para PARENT="Code"/>
+            <ITEXT FONTSIZE="9" CH="   client.loop() # Start a batch calculator client"/>
+            <trail PARENT="Code"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="0" PTYPE="6" XPOS="128.34708661126" YPOS="540.889763799212" WIDTH="538.5883465" HEIGHT="115.110236200788" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="Code" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 115.11 538.588 115.11 538.588 115.11 538.588 115.11 0 115.11 0 115.11 0 115.11 0 115.11 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 115.11 538.588 115.11 538.588 115.11 538.588 115.11 0 115.11 0 115.11 0 115.11 0 115.11 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="12" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
