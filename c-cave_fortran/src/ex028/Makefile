@@ -8,17 +8,17 @@ OBJECTS=main.o fortran.o
 
 LIBS = -lgfortran
 
-$(TARGET).exe: $(OBJECTS)
+$(TARGET): $(OBJECTS)
 	@echo "**"
 	@echo "** Linking Executable"
 	@echo "**"
-	$(CC) $(OBJECTS) $(LIBS) -o $(TARGET).exe
+	$(CC) $(OBJECTS) $(LIBS) -o $(TARGET)
 
 clean:
 	@rm -f *.o *~
 
 veryclean: clean
-	@rm $(TARGET).exe
+	@rm $(TARGET)
 
 %.o: %.c
 	@echo "**"
