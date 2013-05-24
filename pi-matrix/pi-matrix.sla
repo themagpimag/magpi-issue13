@@ -284,21 +284,20 @@
             <ITEXT CH="Start by soldering the 16 resistors, followed by the socket for the MCP23017 chip. Note that the notch on the socket points downwards. Next solder the capacitor then the male header pins. There are a lot of male header pins, but you actually only need to solder the 3 header pins in the top left corner of the PCB. This is labelled 'SV1' on some boards. The other header pins are only needed when you want to do other I/O."/>
             <para ALIGN="3"/>
             <para ALIGN="3"/>
-            <ITEXT CH="If you want nice, straight header pins, tack down one pin with solder, check alignment, resolder if necessary, then solder the rest when everything looks vertical and flush with the board. Don’t solder a whole strip without checking. "/>
+            <ITEXT CH="If you want nice, straight header pins, tack down one pin with solder, check alignment, resolder if necessary, then solder the rest when everything looks vertical and flush with the board. "/>
             <para ALIGN="3"/>
             <para ALIGN="3"/>
-            <ITEXT CH="Aside: Here is what all those headers are for: "/>
-            <para ALIGN="3"/>
-            <ITEXT CH="a) 4 pin headers: ground connections. "/>
-            <para ALIGN="3"/>
-            <ITEXT CH="b) 2 pin headers: Vcc (3.3V) power. "/>
-            <para ALIGN="3"/>
-            <ITEXT CH="c) 3 pin header: chip voltage jumper. Keep at 3v3 (jumper left/center). "/>
-            <para ALIGN="3"/>
-            <ITEXT CH="d) 8 pin headers: breakout for all 16 I/O lines. Left side is Port A, right side is Port B. "/>
             <para ALIGN="3"/>
             <para ALIGN="3"/>
-            <ITEXT CH="We are almost finished. Push the two female header strips onto the LED matrix, then solder them to the PCB. This ensures perfect alignment. Remove the LED matrix. Finally, solder the 26-pin female header. "/>
+            <para ALIGN="3"/>
+            <para ALIGN="3"/>
+            <para ALIGN="3"/>
+            <para ALIGN="3"/>
+            <para ALIGN="3"/>
+            <para ALIGN="3"/>
+            <para ALIGN="3"/>
+            <para ALIGN="3"/>
+            <ITEXT CH="Push the two female header strips onto the LED matrix, then solder them to the PCB. This ensures perfect alignment. Remove the LED matrix. Finally, solder the 26-pin female header. "/>
             <ITEXT FONT="FreeSans Bold" CH="NOTE:"/>
             <ITEXT CH=" Unlike all the other components, this header is placed on the underside of the PCB and soldered on the top side."/>
             <para ALIGN="3"/>
@@ -706,6 +705,10 @@
             <PageItemAttributes/>
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="409.5" YPOS="478.5" WIDTH="214.910079956055" HEIGHT="16.5" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="1" ANTYPE="11" ANACTION="" ANEACT="" ANXACT="" ANDACT="" ANFOACT="" ANBLACT="" ANKACT="" ANFACT="" ANVACT="" ANCACT="" ANEXTERN="http://mypishop.com/Pi%20MATRIX.html" ANZIEL="0" ANACTYP="8" ANTOOLTIP="" ANBWID="1" ANBSTY="0" ANFEED="1" ANFLAG="0" ANFONT="4" ANFORMAT="0" ANROLL="" ANDOWN="" ANVIS="0" ANMC="-1" ANCHK="0" ANAA="0" ANCHKS="0" ANBCOL="Black" ANHTML="0" ANICON="0" ANPLACE="1" ANSCALE="0" ANNAME="Text74" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 214.91 0 214.91 0 214.91 0 214.91 0 214.91 16.5 214.91 16.5 214.91 16.5 214.91 16.5 0 16.5 0 16.5 0 16.5 0 16.5 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 214.91 0 214.91 0 214.91 0 214.91 0 214.91 16.5 214.91 16.5 214.91 16.5 214.91 16.5 0 16.5 0 16.5 0 16.5 0 16.5 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="6" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="1" PTYPE="2" XPOS="128.347091674805" YPOS="989.764750322958" WIDTH="256.402923583984" HEIGHT="153.654541015625" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.4" LOCALSCY="0.4" LOCALX="77.9527559055118" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="pimatrix-pins.jpg" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 256.403 0 256.403 0 256.403 0 256.403 0 256.403 153.655 256.403 153.655 256.403 153.655 256.403 153.655 0 153.655 0 153.655 0 153.655 0 153.655 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 256.403 0 256.403 0 256.403 0 256.403 0 256.403 153.655 256.403 153.655 256.403 153.655 256.403 153.655 0 153.655 0 153.655 0 153.655 0 153.655 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="6" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
