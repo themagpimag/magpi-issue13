@@ -29,5 +29,66 @@ M6KBD
 www.terraphotography.co.uk
 
 ---------------------------------
+taken from:
+http://www.raspberrypi.org/archives/3851#comments
+
+clive (Raspi team) on
+May 3, 2013 at 9:41 pm said:
+
+Reading the MagPi makes me happy :D
+
+Happy birthday and thanks for all the hard work!
+
+---
+
+Seriously, Happy Birthday to Mag Pi (& the team). Without your fantastic
+efforts the Raspberry Pi community would be a far less vibrant place.
+
+Cheers – Pete Lomas
+
+---
+
+JBeale on
+May 4, 2013 at 5:46 am said:
+
+Great stuff! I’ve been using Linux on and off for years, but I’m not really
+fluent in it. I find much of interest and plenty of good tips in W.H.Bell’s
+articles in the MagPi.
+
+---
+
+Steve on
+May 4, 2013 at 6:15 am said:
+
+Nice1 – I am looking forward to reading the new issue. Also thanks for
+reducing the file size, its much easier to manage!
+
+---
+
+Robert_M on
+May 4, 2013 at 6:42 am said:
+
+Great job, guys! Here’s to a successful second year!
+
+---
+
+raizor on
+May 4, 2013 at 4:28 pm said:
+
+I only just found out this existed! Loads of back-reading to do, looks great
+:)
+
+Congratulations on your first year.
+
+---
+
+on Brohauge on
+May 5, 2013 at 7:52 am said:
+
+One of the best magazine series I’ve ever read! As long as You keep making
+them, I’ll keep reading them. Reading through an issue I always get an
+“Aha!”-feeling. Keep rereading back-issues to get snippets of goodies that I
+remember having read somewhere. Just keep soaring ;-)
+
 
 
