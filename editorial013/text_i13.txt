@@ -1,0 +1,10 @@
+Welcome to the 13th issue of The MagPi - when you are done reading this, you will agree this is definitely not an unlucky issue!
+ 
+We are so proud and thankful to be able to showcase the super smart Amy Mather as she talks to us about Conway's Game of Life, what it's
+like being a young hacker and what she has planned for the future.  
+ 
+We take your Raspberry Pi to the club scene and continue our Schism Tracker music series, ply it with plenty more of Lloyd Seaton's genius cocktails and top the night with a little Pi Matrix for good show.
+ 
+If that wasn't enough we return to the 1980s, showing you how to set up and play the seminal space trading game 'Elite' on your Raspberry Pi plus catch up on the next installments of some of the top programming languages with C Cave, Scratch Patch and Python Pit.
+ 
+For those of you who have kindly supported The MagPi Kickstarter cause, we are pleased to announce that all eight issues have been printed and distribution is now commencing!  Thank you all for your patience.
