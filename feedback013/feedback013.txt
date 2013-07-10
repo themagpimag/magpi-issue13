@@ -1,0 +1,94 @@
+Hi,
+
+ 
+
+I thought I would just let you know how fortuitous MagPi magazine and, indeed, the Raspberry Pi was.
+
+ 
+
+I was, and still am, recovering from a liver transplant which resulted in me being in and out of hospital with the rest of the time stuck at home. Seeing the MagPi magazine (at that time on-line only) rekindled my interest in computers and the real world which I had last visited in the days of the Spectrum and BBC computers. Long forgotten programming skills in Linux and an even older hobby, electronics, came tumbling back as I was able to fill in the long hours and weeks in hospital and now at home with developing the Pi in various ways.
+
+ 
+
+I’m not one of the younger generation who are being targeted in the hope to engage them in what computers really are all about, but am a reconstituted student eager to use up my ‘extra’ time in the most useful ways possible. OK ‘scutter’ may not exactly fall into that category but completing it gave me satisfaction and a lot of fun! It can been seen here.
+
+ 
+
+During this time I’ve also gained my amateur radio licence and am now working on ways to bring the unique features of the Pi to bear on that past-time. There are many amateur radio operators around the world who use the Raspberry Pi for a wide variety of uses related to their licence and it often features in the hobby magazines.
+
+ 
+
+Regards,
+
+ 
+
+Kevin Cook.
+
+M6KBD
+
+www.terraphotography.co.uk
+
+---------------------------------
+taken from:
+http://www.raspberrypi.org/archives/3851#comments
+
+clive (Raspi team) on
+May 3, 2013 at 9:41 pm said:
+
+Reading the MagPi makes me happy :D
+
+Happy birthday and thanks for all the hard work!
+
+---
+
+Seriously, Happy Birthday to Mag Pi (& the team). Without your fantastic
+efforts the Raspberry Pi community would be a far less vibrant place.
+
+Cheers – Pete Lomas
+
+---
+
+JBeale on
+May 4, 2013 at 5:46 am said:
+
+Great stuff! I’ve been using Linux on and off for years, but I’m not really
+fluent in it. I find much of interest and plenty of good tips in W.H.Bell’s
+articles in the MagPi.
+
+---
+
+Steve on
+May 4, 2013 at 6:15 am said:
+
+Nice1 – I am looking forward to reading the new issue. Also thanks for
+reducing the file size, its much easier to manage!
+
+---
+
+Robert_M on
+May 4, 2013 at 6:42 am said:
+
+Great job, guys! Here’s to a successful second year!
+
+---
+
+raizor on
+May 4, 2013 at 4:28 pm said:
+
+I only just found out this existed! Loads of back-reading to do, looks great
+:)
+
+Congratulations on your first year.
+
+---
+
+on Brohauge on
+May 5, 2013 at 7:52 am said:
+
+One of the best magazine series I’ve ever read! As long as You keep making
+them, I’ll keep reading them. Reading through an issue I always get an
+“Aha!”-feeling. Keep rereading back-issues to get snippets of goodies that I
+remember having read somewhere. Just keep soaring ;-)
+
+
+
